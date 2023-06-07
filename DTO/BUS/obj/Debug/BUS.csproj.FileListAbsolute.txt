@@ -1,0 +1,11 @@
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\BUS.dll
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\BUS.pdb
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\DAL.dll
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\DTO.dll
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\DAL.pdb
+E:\DOAN1_BanNuocHoa\BUS\bin\Debug\DTO.pdb
+E:\DOAN1_BanNuocHoa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\DOAN1_BanNuocHoa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\DOAN1_BanNuocHoa\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\DOAN1_BanNuocHoa\BUS\obj\Debug\BUS.dll
+E:\DOAN1_BanNuocHoa\BUS\obj\Debug\BUS.pdb
